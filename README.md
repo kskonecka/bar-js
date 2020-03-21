@@ -12,7 +12,7 @@ bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a config
 Download  the `bar.min.js`and include it in your project.
 
 ```html
-<script src="bar.min.js"></scrip>
+<script src="bar.min.js"></script>
 ```
 
 ## Usage
