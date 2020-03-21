@@ -1,18 +1,12 @@
 /**
  * bar.js
  * simple bar chart library
- * 12.03.2020 - version 1.0
- * {url}
+ * 20.03.2020 - version 1.0
+ * https://github.com/kskonecka/bar-js
  *
- * Copyright 2020 Katarzyna Skonecka
+ * Copyright 2020 Katarzyna Skonecka <kasia.skonecka@gmail.com>
  * Released under the MIT license
- * {license url}
- *
- * @param targetId
- * @param width
- * @param height
- * @param data
- * @constructor
+ * https://github.com/kskonecka/bar-js/blob/master/LICENCE.md
  *
  *
  **/
