@@ -2,8 +2,6 @@
 Leightweight configurable and simple barchart library in Javascript
 
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
-[![Codacy grade](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686.svg)]()
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
 
 ## Description
 bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a configurable, lightweight and dependency-free experience.
@@ -26,7 +24,7 @@ To create the bar chart, you need a block level container like a div or p.
 Then you can create the BarChart object in your JavaScript file.
 
 ```js
-var barChart = new BarChart(chartId, chartWidth, chartHeight, data);
+const barChart = new BarChart(chartId, chartWidth, chartHeight, data);
 ```
 
 ### Parameters
@@ -43,7 +41,7 @@ Defines the height of the chart like 400
 Defines the data objects. The objects should have 2 key-value pairs: label and value. Example data: 
 
 ```js
-  var data = [
+  const data = [
     {label: 'Jan', value: 123,
     {label: 'Feb', value: 11,
     {label: 'March', value: 55,
